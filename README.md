@@ -1,6 +1,9 @@
 # xingji100_danmu
 主播数据平台弹幕实时收集，包括斗鱼、企鹅、熊猫、b站、全民、虎牙、龙珠、战旗
 
+*这是基于 xingji100_danmu 开发的 https://github.com/pymyworld/xingji100_danmu
+
+
 斗鱼、虎牙、龙珠、熊猫为node.js开发
 * danmu_config.js为node.js弹幕收集脚本配置文件
 * 斗鱼: 在 https://github.com/BacooTang/douyu-danmu 基础上进一步开发
